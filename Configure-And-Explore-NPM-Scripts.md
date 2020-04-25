@@ -1,4 +1,8 @@
-# Upgrade The Scripts Block 
+[Home](README.md)
+
+# Configure And Explore NPM Scripts
+
+## Upgrade The Scripts Block 
 
 Edit the **package.json** file. 
 
@@ -20,7 +24,7 @@ Replace the scripts block with the following:
 }
 ```
 
-# Check The Current Angular Version 
+## Check The Current Angular Version 
 
 From the terminal window, run the **ngver** script. 
 
@@ -32,7 +36,7 @@ You should see output similar to the following:
 
 ![image.png](/.attachments/image-9cb7ec1c-ee36-4f8b-8a12-e478b1a70076.png)
 
-# Do A Development Build 
+## Do A Development Build 
 
 From the terminal window, run the **build** script. 
 
@@ -56,7 +60,7 @@ Examine the contents of this folder in Windows Explorer.
 
 Make a mental note of the files present and the relative sizes of the files. The development build contains *.map files to support debugging code in a browser, and the file sizes are larger than you would see in a production build.
 
-# Do A Production Build 
+## Do A Production Build 
 
 From the terminal window, run the **build:prod** script. 
  
@@ -78,7 +82,7 @@ Notice that there are fewer files (no *.map files) were produced. The files are 
 
 The ng build command with the --prod meta-flag (ng build --prod) compiles with AOT by default. For more information see [Angular - Ahead-of-time (AOT) compilation](https://angular.io/guide/aot-compiler).
 
-# Run The Start Task  
+## Run The Start Task  
 
 From the terminal window, run the **start** script.
  

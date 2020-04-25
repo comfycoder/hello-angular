@@ -1,4 +1,8 @@
-# Install Bootstrap
+[Home](README.md)
+
+# Add The Bootstrap Framework
+
+## Install Bootstrap
 
 From the terminal window, run the following Yarn commands:
 
@@ -21,7 +25,7 @@ Open the package.json file, and your should see the NPM packages you just added:
 
 These files were also added to the Y
 
-# Add Local Bootstrap Override Files 
+## Add Local Bootstrap Override Files 
 
 In the VS Code files area, we'll create some new files.
 
@@ -150,7 +154,7 @@ In the src folder, added the following statement to the top of the **styles.scss
 
 These statements include the **_variables.scss** and **_bootstrap.scss** files you created in the **src** folder. 
 
-# Test The Integration Of Bootstrap
+## Test The Integration Of Bootstrap
 
 Open a command line windows and run the start script. 
 

@@ -1,6 +1,10 @@
+[Home](README.md)
+
+# Add Non-Angular JavaScript File
+
 You can use third party JavaScript files in your Angular SPA that are not necessarily Angular-ready.
 
-# Install JavaScript Library
+## Install JavaScript Library
 
 Install your 3rd party library, as follows: 
 

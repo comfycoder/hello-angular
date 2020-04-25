@@ -1,3 +1,7 @@
+[Home](README.md)
+
+# Create A Feature Module
+
 Feature modules allow you to group and load related application features on-demand, which helps decrease the application startup time.  
 
 No need to load everything at once, you should only load what the user expects to see when the app first appears. 
@@ -6,7 +10,7 @@ Lazy loaded feature modules only get loaded when a user navigates to the feature
 
 For more information, see [Feature modules](https://angular.io/guide/feature-modules) and [Lazy-loading feature modules](https://angular.io/guide/lazy-loading-ngmodules).
 
-# Add A Feature Module
+## Add A Feature Module
 
 From the terminal window, run the following command line statement:
 

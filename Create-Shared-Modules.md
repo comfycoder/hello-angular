@@ -1,8 +1,12 @@
+[Home](README.md)
+
+# Create Shared Modules
+
 Services, components, directives, pipes, etc., can also be modularized and shared among your website pages and components. 
 
 For more information on Angular modules, see [NgModules](https://angular.io/guide/ngmodule#shared-modules). 
 
-# Create A Services Module 
+## Create A Services Module 
 
 Most of your services should be global singletons. 
 
@@ -54,7 +58,7 @@ export class ServicesModule {
 
 For more information, see [Prevent reimport of the GreetingModule](https://angular.io/guide/singleton-services#prevent-reimport-of-the-greetingmodule) and [The forRoot() pattern](https://angular.io/guide/singleton-services#the-forroot-pattern).
 
-# Create A Components Module 
+## Create A Components Module 
 
 From the terminal window, create a module for shared components: 
 
@@ -109,7 +113,7 @@ export class ComponentsModule {
 
 Note the inclusion of the RouterModule, FormsModule, and ReactiveFormsModule needed to support common page and component configuration needs.
 
-# Added Shared Modules to the main app.module.ts file
+## Added Shared Modules to the main app.module.ts file
 
 In VS Code, navigate to the new **app.module.ts** file in the **src/app** folder.
 

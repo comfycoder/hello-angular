@@ -1,4 +1,8 @@
-# Add A Page Header Component
+[Home](README.md)
+
+# Create The Site Layout
+
+## Add A Page Header Component
 
 From the terminal window, run the following command:
 
@@ -34,7 +38,7 @@ Replace the content with the following:
 </nav>
 ```
 
-# Add A Page Footer Component 
+## Add A Page Footer Component 
 
 From the terminal window, run the following command:
 

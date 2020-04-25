@@ -1,4 +1,8 @@
-# Add a home view
+[Home](README.md)
+
+Add Common Site Views (Pages)
+
+## Add a home view
 
 From the terminal window, run the following command line statement:
 
@@ -28,7 +32,7 @@ In VS Code, replace the contents of the home.compont.html file with the followin
 </p> 
 ```
 
-# Add an error view
+## Add an error view
 
 From the terminal window, run the following command line statement:
 
@@ -58,7 +62,7 @@ In VS Code, replace the contents of the home.compont.html file with the followin
 </p>
 ```
 
-# Add a not-found view
+## Add a not-found view
 
 From the terminal window, run the following command line statement:
 
@@ -85,7 +89,7 @@ In VS Code, replace the contents of the home.compont.html file with the followin
 </p>
 ```
 
-# Add routes for the new views
+## Add routes for the new views
 
 From VS Code, edit the app-routing.module.ts file. 
 
@@ -135,7 +139,7 @@ const routes: Routes = [
 export class AppRoutingModule { }
 ```
 
-# Configure the app.component.html for routing
+## Configure the app.component.html for routing
 
 In VS Code, replace the contents of the app.compont.html file with the following:
 

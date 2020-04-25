@@ -1,7 +1,8 @@
-# Summary
+[Home](README.md)
+
+# Developer Tools Setup
 
 Download and install the following software on your workstation.
-
 
 # Notepad ++
 https://notepad-plus-plus.org/downloads/
