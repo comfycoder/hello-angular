@@ -10,25 +10,25 @@ Please work through the steps in the indicated order, as each step builds upon t
 
 ## Setup Your Site For Team Activities
 
-[Create A New Angular SPA](Create-A-New-Angular-SPA)
+[Create A New Angular SPA](Create-A-New-Angular-SPA.md)
 
-[Configure And Explore NPM Scripts](Configure-And-Explore-NPM-Scripts)
+[Configure And Explore NPM Scripts](Configure-And-Explore-NPM-Scripts.md)
 
-[Add The Bootstrap Framework](Add-The-Bootstrap-Framework)
+[Add The Bootstrap Framework](Add-The-Bootstrap-Framework.md)
 
-[Add Non-Angular JavaScript Files](Add-Non-Angular-JavaScript-Files)
+[Add Non-Angular JavaScript Files](Add-Non-Angular-JavaScript-Files.md)
 
 ## Site Construction
 
-[Create Shared Modules](Create-Shared-Modules)
+[Create Shared Modules](Create-Shared-Modules.md)
 
-[Add Common Site Views (Pages)](Add-Common-Site-Views-\(Pages\))
+[Add Common Site Views (Pages)](Add-Common-Site-Views-\(Pages\).md)
 
-[Create The Site Layout](Create-The-Site-Layout)
+[Create The Site Layout](Create-The-Site-Layout.md)
 
-[Create A Feature Module](Create-A-Feature-Module)
+[Create A Feature Module](Create-A-Feature-Module.md)
 
-[Add The ag-grid Component](Add-The-ag-grid-Component)
+[Add The ag-grid Component](Add-The-ag-grid-Component.md)
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzM3NDcxMTEzXX0=
