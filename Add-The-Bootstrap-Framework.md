@@ -234,7 +234,6 @@ For example, you could comment out the following styles in the _bootstrap.scss f
 There are other ways to add Bootstrap to your project, but this approach gives you more control over which Bootstrap styles you wish to include in the final Angular SPA production build.
 
 
+[Home](README.md)
 
-
-
-
+[Add Non-Angular JavaScript Files](Add-Non-Angular-JavaScript-Files.md)

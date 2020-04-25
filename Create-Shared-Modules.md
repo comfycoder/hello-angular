@@ -148,6 +148,6 @@ export class AppModule { }
 
 You have now created shared modules from which to share services and components. 
 
+[Home](README.md)
 
-
-
+[Add Common Site Views (Pages)](Add-Common-Site-Views-\(Pages\).md)

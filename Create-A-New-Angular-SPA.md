@@ -87,3 +87,7 @@ The Angular app should look something like the following:
 ![image.png](/.attachments/image-73e724ce-a4f6-4ae4-a008-713d3e89bda4.png)
 
 You have successfully created a new Angular SPA!
+
+[Home](README.md)
+
+[Configure And Explore NPM Scripts](Configure-And-Explore-NPM-Scripts.md)

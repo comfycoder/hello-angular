@@ -80,4 +80,9 @@ yarn config set cache-folder c:\yarn
 
 yarn global add @angular/cli@latest 
 
-ng config -g cli.packageManager yarn 
+ng config -g cli.packageManager yarn
+```
+
+[Home](README.md)
+
+[Create A New Angular SPA](Create-A-New-Angular-SPA.md)

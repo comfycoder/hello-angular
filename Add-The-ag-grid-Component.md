@@ -226,9 +226,6 @@ The Page should appear something like the following:
 ![image.png](/.attachments/image-7b172109-17ec-442b-83e6-e682ce32be63.png)
 
 
+[Home](README.md)
 
-
-
-
-
-
+[Add The ag-grid Component](Add-The-ag-grid-Component.md)

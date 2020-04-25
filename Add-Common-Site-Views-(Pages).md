@@ -1,6 +1,6 @@
 [Home](README.md)
 
-Add Common Site Views (Pages)
+# Add Common Site Views (Pages)
 
 ## Add a home view
 
@@ -194,3 +194,6 @@ You should see something like the following:
 
 You should now be able to click on the buttons to navigate among the newly added views.
 
+[Home](README.md)
+
+[Create The Site Layout](Create-The-Site-Layout.md)
