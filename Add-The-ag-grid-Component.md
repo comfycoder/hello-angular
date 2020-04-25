@@ -227,5 +227,3 @@ The Page should appear something like the following:
 
 
 [Home](README.md)
-
-[Add The ag-grid Component](Add-The-ag-grid-Component.md)
