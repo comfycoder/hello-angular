@@ -1,6 +1,6 @@
 # Hello Angular
 
-The following is a tutorial to guide you through learning how to implement some of the components and features similar to those used in the SearchPoint/Enlight application.
+The following is a tutorial to guide you through learning how to implement some of the components and features commonly used in an Angular SPA application.
 
 Please work through the steps in the indicated order, as each step builds upon the previous step.
 
