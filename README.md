@@ -30,6 +30,10 @@ Please work through the steps in the indicated order, as each step builds upon t
 
 [Add The ag-grid Component](Add-The-ag-grid-Component.md)
 
+[Add Title Service To Dynamically Set The Page Title](Add-Title-Service-To-Dynamically-Set-The-Page-Title.md)
+
+[Add Application Settings Service](Add-Application-Settings-Service.md)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzM3NDcxMTEzXX0=
 -->
