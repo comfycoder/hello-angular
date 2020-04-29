@@ -34,6 +34,8 @@ Please work through the steps in the indicated order, as each step builds upon t
 
 [Add Application Settings Service](Add-Application-Settings-Service.md)
 
+[Add Language Translation Support](Add-Language-Translation-Support.md)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzM3NDcxMTEzXX0=
 -->
