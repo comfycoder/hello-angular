@@ -145,7 +145,7 @@ export class AppComponent implements OnInit {
   ) { }
 
   ngOnInit(): void {
-    this.titleService.setAppName(this.title);
+    this.titleService.init(this.title);
   }
 }
 ```
@@ -164,7 +164,7 @@ We also added the **ngOnInit()** lifecycle event handler to handle component ini
 
 ``` typescript
   ngOnInit(): void {
-    this.titleService.setAppName(this.title);
+    this.titleService.init(this.title);
   }
 ```
 
