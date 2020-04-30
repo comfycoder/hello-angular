@@ -36,6 +36,19 @@ Please work through the steps in the indicated order, as each step builds upon t
 
 [Add Language Translation Support](Add-Language-Translation-Support.md)
 
+[Add Logger Service](Add-Logger-Service.md)
+
+[Add Error Service](Add-Error-Service.md)
+
+[Add Http Debug Function](Add-Http-Debug-Function.md)
+
+[Add Person Data Service](Add-Person-Data-Service.md)
+
+[Add Store Module](Add-Store-Module.md)
+
+[Add Person Store](Add-Person-Store.md)
+
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMzM3NDcxMTEzXX0=
 -->
